@@ -13,4 +13,5 @@ Private Modpack for the FreshStartSMP
 ## Installation
 Please read the [Wiki](https://github.com/cwbon1/freshstartsmp/wiki) for the installation guide (just cleaning up the README.md, sorry)
 
+## Issues
 If any issues arise while using Prism Launcher, please open an [issue](https://github.com/cwbon1/freshstartsmp/issues/new).
